@@ -1,0 +1,19 @@
+MAGNETIC SPACE
+ANDRÉS PÉREZ-LÓPEZ
+(cluster database)
+------------------------------------
+MAGNETIC SPACE is an artistic approximation to the Cluster magnetic data.
+The sonification is entirely produced in SuperCollider, with a small post-processing with Ardour.
+
+The most predominant sound comes from the magnetic data. 
+The absolute value of measured magnetic field, as well as its first derivative, is mapped to the dusty, wind-like sound, which resembles the solar wind. 
+
+There is a second, blip-type sound. 
+Extrapolating the concept of the observer's importance and implication in the measurement, the sound informs about the position of the four satellits, by locating a satellites' sound representation in the virtual acoustic space. 
+The x-axis is arbitrarily chosen to be in the front of the listener, and z-axis is vertical positive direction.
+The sound is actually produced for binaural listening (Cipic subject number 65), but stereo-panning will probably also work. 
+Spatialization is provided by 3Dj, the live sound spatialization framework I'm presenting at the conference (http://github.com/andresperezlopez/3Dj).
+
+www.andresperezlopez.com
+
+

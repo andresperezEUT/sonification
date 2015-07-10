@@ -1,0 +1,17 @@
+Position in km from earth (gse coordinates xyz), field in nT (nanoTesla)
+Time in fraction of days relative to given start day (*86400 to get seconds)
+Data was divided by scaling factors to get into the range of +-1. for wav
+Time [sec] = value * timescale * 86400
+Data [nT]  = value * fieldscale
+Position [km] in xyz = value * positionscale
+Start day ymd:  20071027
+Time scale:     2.000000
+Field scale:    200.000000
+Position scale: 200000.000000
+Data indices (sample number)
+Event 1: Nakamura Fig 1
+161436 - 403584
+Event 2: Nakamura Fig 3
+242149 - 282508
+Event 3: subsection with nice waves, spacecraft 3/4
+1048861 - 3379728
