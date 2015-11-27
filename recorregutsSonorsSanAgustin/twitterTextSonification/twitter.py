@@ -1,3 +1,15 @@
+###############################################################################
+#                                                                             #
+#    ------------------- Twitter Text2Speech Sonification ------------------- #
+#               people gossip in Barcelona, discover about what               #
+#        presented at CC Convent de Sant Agustí, #Recorreguts Sonors 2015     #
+#                                                                             #
+#                                   twitter.py                                #
+#                   (c) La Neurona Tropical, November 2015                    #
+#                               All Wrongs Reserved                           #
+#                                                                             #
+###############################################################################
+
 from __future__ import absolute_import, print_function
 
 from tweepy.streaming import StreamListener
